@@ -13,7 +13,7 @@ function writeToFile(title, overview, description, installation, usage, license,
   //makes it into a bg string
   const readMeContent = generateMarkdown(title, overview, description, installation, usage, license, contributing, tests, github, email);
 //the string is turned into data so that it can be written by the file
-  fs.writeFile('README.md', readMeContent, (err) => {
+  fs.writeFile('READ-ME.md', readMeContent, (err) => {
     err ? console.log(err) : console.log('YESSSIIIIRRR!!!!');
   })
 };

@@ -1,13 +1,17 @@
 
-# hi
+# CHEESE HUNTER
 
- Overview of project: hi
+Overview of project: A quest to find the best cheese
 
 ## Description
 
-hi
+***
+
+* Finding the best cheese in the world using GPS tracking
 
 ## Table of Contents
+
+***
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -16,33 +20,47 @@ hi
 * [Test](#test)
 * [Questions](#questions)
 
-## Installation <a name='introduction'></a>
+## Installation <a name = 'introduction'></a>
 
-hi
+***
 
-## Usage  <a name='usage'></a>
+* Apply GPS tracker under cheese wheels
 
-hi
+## Usage  <a name = 'usage'></a>
 
-## License  <a name='license'></a>
+***
 
-This project is licensed under the hi License - see the LICENSE.md file for details
+* N/A
 
-##Contributing  <a name='contributing'></a>
+## License  <a name = 'license'></a>
 
-hi
+***
+
+* This project is licensed under the Illegal activities License - see the LICENSE.md file for details
+
+## Contributing  <a name = 'contributing'></a>
+
+***
+
+* Cheese Gang Inc.
 
 ## Test  <a name = 'test'></a>
 
-hi
+***
+
+* N/A
 
 ## Questions  <a name = 'questions'></a>
 
-* Github username: hi
+***
 
-Feel free to email me at hi if you have any further questions.
+* Github username: Mr.CheeseHead
+
+* Feel free to email me at notoriouscheesehunter@cheese.com if you have any further questions.
 
 ## Acknowledgments
+
+***
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)

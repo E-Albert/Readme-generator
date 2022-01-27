@@ -20,13 +20,17 @@ function generateMarkdown(title, overview, description, installation, usage, lic
   return `
 # ${title}
 
- Overview of project: ${overview}
+Overview of project: ${overview}
 
 ## Description
 
-${description}
+***
+
+* ${description}
 
 ## Table of Contents
+
+***
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -37,31 +41,45 @@ ${description}
 
 ## Installation <a name = 'introduction'></a>
 
-${installation}
+***
+
+* ${installation}
 
 ## Usage  <a name = 'usage'></a>
 
-${usage}
+***
+
+* ${usage}
 
 ## License  <a name = 'license'></a>
 
-This project is licensed under the ${license} License - see the LICENSE.md file for details
+***
 
-##Contributing  <a name = 'contributing'></a>
+* This project is licensed under the ${license} License - see the LICENSE.md file for details
 
-${contributing}
+## Contributing  <a name = 'contributing'></a>
+
+***
+
+* ${contributing}
 
 ## Test  <a name = 'test'></a>
 
-${tests}
+***
+
+* ${tests}
 
 ## Questions  <a name = 'questions'></a>
 
+***
+
 * Github username: ${github}
 
-Feel free to email me at ${email} if you have any further questions.
+* Feel free to email me at ${email} if you have any further questions.
 
 ## Acknowledgments
+
+***
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
